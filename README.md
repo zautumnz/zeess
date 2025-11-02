@@ -1,6 +1,6 @@
 # zeess
 
-[Demo](http://zacanger.github.io/zeess)
+[Demo](http://zautumnz.github.io/zeess)
 
 [npm](http://npm.im/zeess)
 
@@ -11,5 +11,5 @@ To use: download, clone, or `npm i -S zeess`, and link to it.
 There's a minified thing.
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/zacanger/zeess/gh-pages/zeess.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/zautumnz/zeess/gh-pages/zeess.min.css">
 ```

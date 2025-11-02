@@ -3,20 +3,18 @@
   "description": "A reasonably small CSS boilerplate miniframework thing.",
   "version": "1.0.3",
   "author": {
-    "name": "Zac Anger",
-    "email": "zac@zacanger.com",
-    "url": "http://zacanger.com"
+    "name": "zautumnz"
   },
   "license": "WTFPL",
   "scripts": {
     "build": "./build.sh"
   },
-  "homepage": "http://zacanger.github.io/zeess/",
+  "homepage": "http://zautumnz.github.io/zeess/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/zeess.git"
+    "url": "https://github.com/zautumnz/zeess.git"
   },
-  "bugs": "https://github.com/zacanger/zeess/issues",
+  "bugs": "https://github.com/zautumnz/zeess/issues",
   "keywords": [
     "boilerplate",
     "css",
